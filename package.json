@@ -1,6 +1,6 @@
 {
-  "name": "simple-express-static-server",
-  "version": "0.0.1",
+  "name": "c_hunna_beats",
+  "version": "1.0.0",
   "description": "A very simple static file server.",
   "main": "server.js",
   "scripts": {
@@ -11,19 +11,39 @@
     "url": "git://github.com/spadin/simple-express-static-server.git"
   },
   "author": "Sandro Padin",
-  "contributors" : [ "Luca Capra" ],
-  "license": "ISC",
+  "contributors": [
+    "Luca Capra"
+  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/spadin/simple-express-static-server/issues"
   },
   "homepage": "https://github.com/spadin/simple-express-static-server",
   "dependencies": {
-    "express": "^4.1.2",
     "body-parser": "^1.1.2",
     "errorhandler": "^1.0.1",
-    "method-override": "^1.0.0"
+    "express": "^4.1.2",
+    "method-override": "^3.0.0"
   },
   "bin": {
     "simple-server": "./start.js"
-  }
+  },
+  "devDependencies": {
+    "octicons": "^8.1.0"
+  },
+  "keywords": [
+    "chunna",
+    "beats",
+    "producer",
+    "music",
+    "soundcloud",
+    "chill",
+    "beats",
+    "express",
+    "node",
+    "html",
+    "css",
+    "javascript",
+    "bootstrap"
+  ]
 }
